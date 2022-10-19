@@ -1,0 +1,12 @@
+
+.meme-image {
+    width: auto;
+    height: 100%;
+    max-width: 500px;
+    object-fit: cover;
+}
+
+.meme-content {
+    max-width: fit-content;
+    font-size: 14px;
+}
